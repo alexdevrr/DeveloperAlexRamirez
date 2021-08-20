@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My web portfolio with technologies such as: CSS, Node, SASS, Javascript and React.**
 
-- 🌱 I’m currently learning **React whit Redux**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **alexkey0516@gmail.com**
 
