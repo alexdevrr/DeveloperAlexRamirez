@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **VueJS.**
 
-- 🌱 I’m currently learning **React Native**
-
 - 📫 How to reach me **alexkey0516@gmail.com**
 
 - ⚡ Fun fact **Soccer ⚽, calisthenics 💪🏼 and partying 🥳**
