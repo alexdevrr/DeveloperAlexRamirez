@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Ramírez Rodríguez🍰</h1>
 <h3 align="center">I'm passionate about web development, I'm currently learning React deeply ⚛️</h3>
 
-- 🔭 I’m currently working on **My web portfolio with technologies such as: CSS, Node, SASS, Javascript and React.**
+- 🔭 I’m currently working on **VueJS.**
 
 - 🌱 I’m currently learning **React Native**
 
